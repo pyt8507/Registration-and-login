@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration and login</string>
+    <string name="login">login</string>
+    <string name="user_name">Username:</string>
+    <string name="password">Password:</string>
+    <string name="register">register</string>
+    <string name="remember">Remember My Password</string>
+    <string name="left">Attempts Left:</string>
+    <string name="cancel">cancel</string>
+    <string name="nochance">No attempts left</string>
+    <string name="signupfirst">Please register first</string>
+    <string name="input">Please enter user name and password</string>
+    <string name="loginsuccessfully">Login successful</string>
+    <string name="incorrect">Wrong user name and password</string>
+    <string name="signupsuccessfully">login was successful</string>
+    <string name="notempty">User name and password cannot be empty</string>
+</resources>
